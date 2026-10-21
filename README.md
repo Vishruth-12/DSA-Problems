@@ -7,4 +7,4 @@ Practice problems for data structures and algorithms in C++.
 - `problems/binary_search.cpp`
 - `problems/fibonacci.cpp`
 
-Prepared on 2026-10-21.
+Prepared on 2026-10-20.
